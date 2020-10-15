@@ -1,0 +1,72 @@
+#welcomeMessage{
+    background-color:#3F3F3F;
+    color:white;
+    font-size:15px;
+    border-radius:15px;
+    margin-top:50px;
+    h2{
+        font-size:30px;
+        font-family: "Rounded Elegance", "Century Gothic", Arial;
+        color:white;
+        text-align:center;
+        padding:10px;
+        padding-bottom:0px;
+    }
+    p{
+        line-height:25px;
+        padding:10px;
+        padding-top:0px;
+    }
+
+}
+
+#Arrow{
+    display:block;
+	margin-left:auto;
+    margin-right:auto;
+    margin-top:20px;
+    margin-bottom:40px;
+}
+
+@media screen and (min-width: 1000px){
+
+    #welcomeMessage{
+        font-size:20px;
+        background-color:#3F3F3F;
+        border-radius:15px;
+        margin-top:200px;
+        width:800px;
+        display:block;
+        margin-left:auto;
+        margin-right:auto;
+        h2{
+            font-size:40px;
+            font-family: "Rounded Elegance", "Century Gothic", Arial;
+            color:white;
+            text-align:center;
+            padding:15px;
+            padding-bottom:0px;
+        }
+        p{
+            line-height:25px;
+            padding:20px;
+            padding-top:0px;
+        }
+    
+    }
+    
+    #Arrow{
+        display:block;
+        margin-left:auto;
+        margin-right:auto;
+        margin-top:60px;
+        margin-bottom:100px;
+    }
+
+    #ICircles{
+        display:unset;
+        margin-bottom:-2250px;
+        margin-left:-350px;
+    }
+
+}

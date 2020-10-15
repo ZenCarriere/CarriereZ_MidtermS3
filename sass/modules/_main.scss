@@ -1,0 +1,30 @@
+body { 
+    font-family: $main-font-family; 
+    font-size: $main-font-size; 
+    background-color:$main-background-color ; 
+    position:relative;
+    padding:0;
+}
+
+.hidden 
+	{
+		display: none;
+    }
+    
+#page
+{
+	width:320px;
+	margin:0 auto;
+}
+
+hr{
+    color:#3F3F3F;
+    margin:0px;
+}
+
+@media screen and (min-width: 1000px){
+    #page
+    {
+        width:1200px;
+    }
+}

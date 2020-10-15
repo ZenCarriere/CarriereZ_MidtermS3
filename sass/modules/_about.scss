@@ -1,0 +1,58 @@
+#Me{
+    margin-top:50px;
+    margin-bottom:30px;
+}
+
+#aboutHead{
+    color:#3F3F3F;
+    font-size:30px;
+    font-family: "Rounded Elegance", "Century Gothic", Arial;
+    text-align: center;
+}
+#aboutText{
+    p{
+        line-height:30px;
+        padding:10px;
+        padding-top:0px;
+        font-size:15px;
+        border-radius:15px;
+        background-color:#3F3F3F;
+        color:white;
+        padding: 10px;
+    }
+}
+
+@media screen and (min-width: 1000px){
+    #Me{
+        margin-top:80px;
+        margin-bottom:80px;
+        display:block;
+	    margin-left:auto;
+        margin-right:auto;
+    }
+    
+    #aboutHead{
+        color:#3F3F3F;
+        font-size:40px;
+        font-family: "Rounded Elegance", "Century Gothic", Arial;
+        text-align: left;
+    }
+    #aboutText{
+        p{
+            line-height:40px;
+            padding:20px;
+            padding-top:0px;
+            font-size:20px;
+            border-radius:15px;
+            background-color:#3F3F3F;
+            color:white;
+        }
+    }
+
+    #ACircles{
+        display:unset;
+        margin-bottom:-1600px;
+        margin-left:-110px;
+    }
+    
+}

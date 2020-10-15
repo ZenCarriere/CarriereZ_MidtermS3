@@ -1,0 +1,34 @@
+footer{
+    color:#5A5A5A;
+    font-size:15px;
+    text-align:right;
+    margin-top:50px;
+}
+
+@media screen and (min-width: 1000px){
+    footer{
+        font-size:20px;
+        text-align:unset;
+        margin-top:200px;
+        display:flex;
+        text-decoration: none;
+    }
+        #footbuttons{
+                display:unset;
+            }
+        #bTT{
+             display:unset;
+             color:#5A5A5A;
+             text-decoration: none;
+        }
+        #toTop{
+            display:flex;
+            flex-direction:column;
+            text-decoration: none;
+        }
+
+        #copyR{
+            margin-top:80px;
+            margin-left:890px;
+        }
+}
