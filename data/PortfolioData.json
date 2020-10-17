@@ -1,0 +1,5 @@
+{
+    "PortfolioPiece1":{"PortfolioImage": "Portfolio1.jpg","PortfolioName": "3D Makeup Line", "Software": "Cinema 4D, Photoshop", "coding": "none", "Description": "Given the models this piece was a texturing and styling assignment. The objective being to create style frames for a makeup commercial. I textured  the models in Cinema 4D and took renders which I enhanced later in Photoshop."},
+    "PortfolioPiece2":{"PortfolioImage": "Portfolio2.jpg","PortfolioName": "Crest Grolsch Brand Mashup" , "Software": "Illustrator, Photoshop, Xd...", "coding": "Html, CSS, Javascript", "Description": "This was a big project that involved creating a website for a brand mash up of Crest mouth wash and Grolsch beer. The project also included creating all of the custom content for the pages  including images, videos, and copy."},
+    "PortfolioPiece3":{"PortfolioImage": "Portfolio3.jpg","PortfolioName": "3D Future Hotel Room" , "Software": "Cinema 4D", "coding": "none", "Description": "A hotel room scene completely modeled, textured, lit, and rendered by me. I took inspiration from Bladerunner (2049) and minimalist design throughout the process."}
+}
